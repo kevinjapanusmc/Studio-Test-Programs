@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "c:\\Users\\kevin\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "code-runner.runInTerminal": true
+}
